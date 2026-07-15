@@ -46,17 +46,6 @@ This project implements the complete BPE tokenizer pipeline from scratch using P
 
 ---
 
-## 📂 Repository Structure
-
-```
-BytePairEncoding/
-│
-├── corpus.txt
-├── BytePairEncoding.ipynb
-├── README.md
-└── output.png
-```
-
 ---
 
 ## ⚙️ Algorithm Workflow
